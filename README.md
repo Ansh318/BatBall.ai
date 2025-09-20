@@ -1,7 +1,8 @@
 # BatBall.ai
 
-**AI-powered cricket video breakdown** for academies & coaches.  
-Upload a clip → get **bowling speed**, **release point**, **ball trajectory**, **bat swing metrics**, **landing heatmaps**, and **coach-ready reports**.
+BatBall.ai is an **AI-powered cricket video breakdown tool** built for academies, coaches, and aspiring players.  
+Simply upload a clip and get instant insights into **bowling speed, release point, ball trajectory, batting swing metrics, and pitch heatmaps** — all delivered in a clean, coach-ready report.
+
 ---
 
 ## Key Features
